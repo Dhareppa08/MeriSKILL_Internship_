@@ -1,8 +1,7 @@
 <h1 align = 'center'> MeriSkill Internship
 </h1>
 Wednesday 6th September 2023, I was offered an internship role (Data Analysis) at MeriSkill.
-<h2 align ='center'> About MeriSkill
-</h2>
+<h2 align ='center'> About MeriSkill</h2>
 <p align="center">
   <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image" height = 800 width = 800>
 </p>

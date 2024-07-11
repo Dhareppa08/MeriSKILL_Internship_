@@ -1,4 +1,4 @@
-MeriSkill Internship
+#MeriSkill Internship
 Wednesday 6th September 2023, I was offered an internship role (Data Analysis) at MeriSkill.
 About MeriSkill
 Description of the image

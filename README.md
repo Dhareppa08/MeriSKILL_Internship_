@@ -33,6 +33,8 @@ The Meri Skill data analysis internship is a great opportunity for students and 
 </h2>
 
 **Project 1: Sales Data Analysis**
+![Sales_TASK](https://github.com/Dhareppa08/MeriSKILL_Internship_/assets/173264721/c99a25ed-1807-428a-a58d-7c930866aa16)
+
 
 **Purpose:** 
 The purpose of this project is to analyze sales data to extract valuable insights that can inform business decision-making. It involves identifying sales trends, top-selling products, and key revenue metrics.
@@ -62,6 +64,8 @@ This project focuses on a dataset from the National Institute of Diabetes and Di
 - Understanding of medical data analysis.
 
 **Project 3: HR Analytics**
+![HR_TASK](https://github.com/Dhareppa08/MeriSKILL_Internship_/assets/173264721/8bba60ac-b073-4866-9192-0a83bc2d2104)
+
 
 **Tasks to Perform:**
 

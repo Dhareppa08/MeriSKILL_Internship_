@@ -1,6 +1,5 @@
 <h1 align = 'center'> MeriSkill Internship
-</h1>
-Wednesday 6th September 2023, I was offered an internship role (Data Analysis) at MeriSkill.
+</h1> I was offered an internship role (Data Analysis) at MeriSkill.
 <h2 align ='center'> About MeriSkill</h2>
 <p align="center">
   <img src="https://github.com/Gbekoilias/MeriSkills/blob/main/Week%201/Meri%20Skill%20Logo.jpg" alt="Description of the image" height = 800 width = 800>
@@ -16,7 +15,7 @@ Meri Skill has helped over 10,000 women and girls in India to develop skills, st
 
 <h2 align ='center'> About the Internship
 </h2>
-The Meri Skill data analysis internship is a 3-6 month program that provides students and recent graduates with real-world experience in the field of data analysis. Interns will have the opportunity to work on real-time projects, collaborate with experienced professionals, and learn from the latest trends and technologies.
+The Meri Skill data analysis internship program that provides students and recent graduates with real-world experience in the field of data analysis. Interns will have the opportunity to work on real-time projects, collaborate with experienced professionals, and learn from the latest trends and technologies.
 
 Some of the key tasks that interns can expect to perform include:
  
